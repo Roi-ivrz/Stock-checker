@@ -1,0 +1,85 @@
+
+
+ticker: AVTR:  Upper Bound: 5791104
+2020-08-20 09:30, 
+
+ticker: BTZ:  Upper Bound: 304538
+2020-08-20 09:30, 
+
+ticker: CNK:  Upper Bound: 7426138
+2020-08-20 09:30, 
+
+ticker: CRK:  Upper Bound: 1887325
+2020-08-20 09:30, 
+
+ticker: CWH:  Upper Bound: 2767909
+2020-08-20 09:30, 
+
+ticker: EL:  Upper Bound: 1123287
+2020-08-20 09:30, 
+
+ticker: FINV:  Upper Bound: 3182321
+2020-08-20 09:30, 
+
+ticker: MGA:  Upper Bound: 1054360
+2020-08-20 09:30, 
+
+ticker: NRT:  Upper Bound: 61844
+2020-08-20 09:30, 
+
+ticker: RFM:  Upper Bound: 44244
+2020-08-20 09:30, 
+
+ticker: THGA:  Upper Bound: 23722
+2020-08-20 09:30, 
+
+ticker: ANTE:  Upper Bound: 10151623
+2020-08-20 09:30, 
+
+ticker: AUTO:  Upper Bound: 1965995
+2020-08-20 09:30, 
+
+ticker: CALM:  Upper Bound: 955804
+2020-08-20 09:30, 
+
+ticker: EYPT:  Upper Bound: 2720160
+2020-08-20 09:30, 
+
+ticker: GEVO:  Upper Bound: 110843217
+2020-08-20 09:30, 
+
+ticker: GRWG:  Upper Bound: 10745417
+2020-08-20 09:30, 
+
+ticker: HAIN:  Upper Bound: 383495
+2020-08-20 09:30, 
+
+ticker: NAKD:  Upper Bound: 29563104
+2020-08-20 09:30, 
+
+ticker: OPGN:  Upper Bound: 43487348
+2020-08-20 09:30, 
+
+ticker: OPRA:  Upper Bound: 461624
+2020-08-20 09:30, 
+
+ticker: OTRK:  Upper Bound: 1325441
+2020-08-20 09:30, 
+
+ticker: SABR:  Upper Bound: 12314532
+2020-08-20 09:30, 
+
+ticker: TATT:  Upper Bound: 51459
+2020-08-20 09:30, 
+
+ticker: VRCA:  Upper Bound: 306696
+2020-08-20 09:30, 
+
+ticker: WVE:  Upper Bound: 503748
+2020-08-20 09:30, 
+
+ticker: WWR:  Upper Bound: 8577521
+2020-08-20 09:30, 
+
+ticker: XELB:  Upper Bound: 2222771
+2020-08-20 09:30, 
